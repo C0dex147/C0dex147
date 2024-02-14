@@ -5,6 +5,8 @@ Hi, Im Cody from Phoenix, Arizona and I'm a amateur front end web developer. I'v
 ![C0dex147's Stats](https://github-readme-stats.vercel.app/api?username=C0dex147&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![C0dex147's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C0dex147&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+Graduated from Promineo Tech with an A
  
 Skills:  JS / HTML / CSS
 
