@@ -1,8 +1,6 @@
 #### Cody Baker
 #### Junior Front End Developer
-Hi, Im Cody from Phoenix, Arizona and I'm a striving front end web developer. I've worked with different front end based code languages such as HTML, CSS, JavaScript and frameworks like React and React Native. I have some experience with backend development using MYSQL and Firebase. I've worked in a team based environment in a startup company for o
-
-![C0dex147's Stats](https://github-readme-stats.vercel.app/api?username=C0dex147&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+Hi, my name is Cody and I'm from Phoenix, Arizona. I'm a striving front end web developer and I've worked with different front end based code languages such as HTML, CSS, JavaScript and frameworks like React and React Native. I also have some experience with backend development using MYSQL and Firebase. I've worked in a team based environment in a startup company as a front end developer and have over 7 months of experience so far. I'm excited to gain more experience and hope to work with many cool people in the future!
 
 ![C0dex147's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C0dex147&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
